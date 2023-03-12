@@ -61,7 +61,6 @@ nav {
   .navbar-nav {
     display: flex;
     flex-direction: column;
-    
   }
   .nav-link {
     padding: 10px 0;
